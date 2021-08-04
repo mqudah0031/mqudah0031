@@ -1,4 +1,4 @@
-### Hi there 👋
+![Mohammeds's GitHub stats](https://github-readme-stats.vercel.app/api?username=mqudah0031&count_private=true&show_icons=true&theme=synthwave)
 
 <!--
 **mqudah0031/mqudah0031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
